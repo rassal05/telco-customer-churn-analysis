@@ -79,7 +79,8 @@ It’s my **first portfolio piece** and reflects my passion, commitment, and abi
 
 I'm **Rassal Rasheed**, a Computer Science undergrad and aspiring Data Analyst. I love telling stories through data and building visuals that help people *see* the answers clearly. I'm currently seeking an **internship** in Data Analytics or BI.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/rassalresheed) 
+🔗 [LinkedIn](https://www.linkedin.com/in/rassalresheed)
+
 📬 Open to collaborations, referrals, and mentorship!
 
 ---
