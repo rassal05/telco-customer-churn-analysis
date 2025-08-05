@@ -22,7 +22,7 @@ Welcome to my **first end-to-end data analytics project**, where I explore custo
 
 ## 📊 Final Dashboard Preview
 
-![Dashboard](images/Churn_Dashboard.png)
+![Dashboard](images/telco_churn_dashboard.png)
 
 > Designed with a soft-blue background and a visually-accessible "viridis" color palette for clarity and readability.
 
